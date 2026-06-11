@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I’m Krystle Baylor
 
-<!--
-**krysbaylor/KrysBaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an AI Engineering student building practical AI-powered systems with Python, data workflows, APIs, databases, and automation.
 
-Here are some ideas to get you started:
+My focus is turning business problems into usable technical solutions. I’m especially interested in AI tools that improve workflows, support decision-making, and connect data, models, and user-facing applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Focus
+
+- Python programming
+- Data structures and algorithms
+- SQL and databases
+- APIs and JSON
+- Flask and backend logic
+- pandas and data workflows
+- Machine learning foundations
+- AI math: vectors, matrices, gradients
+- Workflow automation
+- AI agents, RAG, and applied AI systems
+- Business process design
+
+## Current Learning Path
+
+I am currently strengthening my foundation in Python, debugging, data workflows, machine learning, AI math, and system design.
+
+My goal is to build reliable AI products that are useful, explainable, and grounded in real business needs.
+
+## What I’m Building Toward
+
+- Clean data pipelines
+- Reliable backend logic
+- AI model integration
+- Workflow automation tools
+- Business dashboards
+- User-centered AI products
