@@ -1,34 +1,55 @@
-# Hi, I’m Krystle Baylor
+# Hi, I'm Krys Baylor
 
-I’m an AI Engineering student building practical AI-powered systems with Python, data workflows, APIs, databases, and automation.
+I'm an AI Engineering Fellow focused on applied AI, workflow automation, RAG, and business systems.
 
-My focus is turning business problems into usable technical solutions. I’m especially interested in AI tools that improve workflows, support decision-making, and connect data, models, and user-facing applications.
+I build practical technical solutions that connect business problems with Python, data, APIs, databases, AI models, and user-facing applications.
+
+## Featured Projects
+
+### Phase 1 — TechFlow Customer Support Analysis
+
+A Python and Streamlit application that analyzes simulated customer-support data to identify wait-time patterns and support staffing needs.
+
+**What it demonstrates**
+- Python application development
+- SQLite and SQLAlchemy
+- Pandas data analysis
+- Streamlit dashboards
+- Database seeding and retrieval
+- Business analysis and technical communication
+
+[View Phase 1 project](/krysbaylor/p1_wks9_10_jupyter_materials-main)
+
+### Applied AI — Emotion Detection Web Application
+
+A Flask application that analyzes customer feedback using Watson NLP and returns emotion scores and the dominant emotion.
+
+**What it demonstrates**
+- Python package development
+- NLP API integration
+- Flask web development
+- Error handling
+- Unit testing
+- Static code analysis
+
+The project passed five unit tests and achieved a PyLint score of 10/10.
+
+[View emotion detection project](/krysbaylor/oaqjp-final-project-emb-ai)
 
 ## Technical Focus
 
-- Python programming
-- Data structures and algorithms
-- SQL and databases
-- APIs and JSON
-- Flask and backend logic
-- pandas and data workflows
-- Machine learning foundations
-- AI math: vectors, matrices, gradients
-- Workflow automation
-- AI agents, RAG, and applied AI systems
-- Business process design
+Python • SQL • Pandas • Flask • Streamlit • APIs • JSON • SQLAlchemy • Machine Learning • NLP • RAG • Workflow Automation
 
-## Current Learning Path
+## Business + AI Focus
 
-I am currently strengthening my foundation in Python, debugging, data workflows, machine learning, AI math, and system design.
+I am especially interested in AI systems that:
 
-My goal is to build reliable AI products that are useful, explainable, and grounded in real business needs.
+- reduce repetitive work
+- improve access to useful information
+- support better operational decisions
+- connect data and AI to real business workflows
+- communicate results clearly to technical and non-technical users
 
-## What I’m Building Toward
+## Phase 2
 
-- Clean data pipelines
-- Reliable backend logic
-- AI model integration
-- Workflow automation tools
-- Business dashboards
-- User-centered AI products
+Phase 2 capstone project in progress. The final portfolio will include an end-to-end applied AI project from Phase 2.
