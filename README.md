@@ -18,7 +18,7 @@ A Python and Streamlit application that analyzes simulated customer-support data
 - Database seeding and retrieval
 - Business analysis and technical communication
 
-[View Phase 1 project](/krysbaylor/p1_wks9_10_jupyter_materials-main)
+[View Phase 1 project](https://github.com/krysbaylor/p1_wks9_10_jupyter_materials-main)
 
 ### Applied AI — Emotion Detection Web Application
 
@@ -34,7 +34,7 @@ A Flask application that analyzes customer feedback using Watson NLP and returns
 
 The project passed five unit tests and achieved a PyLint score of 10/10.
 
-[View emotion detection project](/krysbaylor/oaqjp-final-project-emb-ai)
+[View emotion detection project](https://github.com/krysbaylor/oaqjp-final-project-emb-ai)
 
 ## Technical Focus
 
