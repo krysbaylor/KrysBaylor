@@ -53,3 +53,8 @@ I am especially interested in AI systems that:
 ## Phase 2
 
 Phase 2 capstone project in progress. The final portfolio will include an end-to-end applied AI project from Phase 2.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/krysbaylor/)
+
