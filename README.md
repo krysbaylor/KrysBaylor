@@ -57,4 +57,4 @@ Phase 2 capstone project in progress. The final portfolio will include an end-to
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/krysbaylor/)
-- [Resume](https://drive.google.com/file/d/13MHgJpJ7fXyL3jaw9HTrbasgMNKLfKh9/view?usp=drive_link)
+- [Resume](https://drive.google.com/file/d/13MHgJpJ7fXyl3jaw9HTrbasgMNKLfKh9/view?usp=sharing)
