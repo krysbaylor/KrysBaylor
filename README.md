@@ -50,10 +50,11 @@ I am especially interested in AI systems that:
 - connect data and AI to real business workflows
 - communicate results clearly to technical and non-technical users
 
-## Phase 2
+## Phase 2 Final Project — Enhancing Businesses with Multi-Agent Systems
 
-Phase 2 capstone project in progress. The final portfolio will include an end-to-end applied AI project from Phase 2.
+A collaborative multi-agent AI project designed to improve business workflow speed while preserving reliability and trust.
 
+[View Phase 2 final project](https://github.com/Jacqueline207/Enhancing-Businesses-with-Multi-Agent-Systems)
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/krysbaylor/)
