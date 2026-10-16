@@ -1,6 +1,6 @@
 # Hi, I'm Krys Baylor
 
-I'm an AI Engineering Fellow focused on applied AI, workflow automation, RAG, and business systems.
+I'm an AI Engineer focused on applied AI, workflow automation, RAG, and business systems.
 
 I build practical technical solutions that connect business problems with Python, data, APIs, databases, AI models, and user-facing applications.
 
